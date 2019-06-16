@@ -6,3 +6,7 @@ Slides or multi-media materials for outreach
 
 ## Sage for High School:  A series of Sage tutorials/projects for high school students
 - Polynomials
+
+
+
+References: [小虎的家](https://sites.google.com/view/smallhuu/%E6%95%99%E5%AD%B8%E8%B3%87%E6%96%99)
