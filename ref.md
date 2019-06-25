@@ -1,5 +1,17 @@
 References: [小虎的家](https://sites.google.com/view/smallhuu/%E6%95%99%E5%AD%B8%E8%B3%87%E6%96%99)
 
+
+[comment]: <> (Table of contents)
+[comment]: <> (Numbers and Polynomials)
+[comment]: <> (Sequences and Combinatorics: sequences and series;combinatorics;discrete probability.  list, for loop, sequence, fibonacci, series, counting, multiply, add, binomial coefficients, counting numbers, probability, Monty Hall & Fall, basic statistics)
+[comment]: <> (Functions and Plotting: Trig functions;2d plotting;2d vectors;python objects.  2d plot, trig functions, de Moivre's theorem, their minpoly, lines, plot, circle, vectors, operations, inner product, volume, Python objects, linear programming)
+[comment]: <> (Vectors and matrices: Vectors;matrices;diagonalization and appl;numpy.  vector, outer product, det in general, 3d plot, matrix, column operations, diagonalization, rotation)
+[comment]: <> (Probability and Statistics: random variable;what is the prob;data analysis.  random variable, guess dice, binomial theorem, de Moivre's theorem formula)
+[comment]: <> (Limit and Approximation:  Limit and app; app the slope; app the area.  computation, sequence limit, approximation, derivative, integration)
+[comment]: <> (Calculus:  theory for limit; theory for differentiation; theory for integration.  calculus, theory, special limit, sandwich, l'hopital, product rule, quotient rule, get area, stirling formula, calculus, l'hopital)
+[comment]: <> (matrix theory:  echelon form;spaces;diagonalization.  row operations, null sol, gen sol, linear combination, span, in span, three spaces, eig values vectors, Cayley--Hamilton, charpoly, minpoly)
+[comment]: <> (graph theory: Graph basics;counting walks;counting spanning trees)
+
 [comment]: <> (Volume 1)
 [comment]: <> (numbers, factor, polynomials, factor, expand, simplify, exp, log, change basis, plot the graph, def a function)
 第一冊
