@@ -5,7 +5,10 @@ Slides or multi-media materials for outreach
 - [生活中的圖論](MathCamp2019/MathCamp2019.ipynb)
 
 ## Sage for High School:  A series of Sage tutorials/projects for high school students
-- Polynomials
+- [Numbers and Polynomials](Sage4HS/Numbers_and_Polynomials.ipynb)
+- [Sequences and Combinatorics](Sage4HS/Sequences_and_Combinatorics.ipynb)
+- [Functions and Plotting](Sage4HS/Functions_and_Plotting.ipynb)
+- 
 
 
 
