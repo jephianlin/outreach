@@ -12,6 +12,8 @@ References: [小虎的家](https://sites.google.com/view/smallhuu/%E6%95%99%E5%A
 [comment]: <> (matrix theory:  echelon form;spaces;diagonalization.  row operations, null sol, gen sol, linear combination, span, in span, three spaces, eig values vectors, Cayley--Hamilton, charpoly, minpoly)
 [comment]: <> (graph theory: Graph basics;counting walks;counting spanning trees)
 
+[comment]: <> (Not done: add/multiply principle in counting, plotting lines circles, volume of vectors, linear programming, basic statistics)
+
 [comment]: <> (Volume 1)
 [comment]: <> (numbers, factor, polynomials, factor, expand, simplify, exp, log, change basis, plot the graph, def a function)
 第一冊
