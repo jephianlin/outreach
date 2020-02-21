@@ -15,7 +15,7 @@ References: [小虎的家](https://sites.google.com/view/smallhuu/%E6%95%99%E5%A
 [comment]: <> (11: Matrix Theory: determinant*, charpoly*, Cayley--Hamilton, minpoly, diagonalization*, rotation) 
 [comment]: <> (12: Graph Theory: Graph basics*, construct graph, position, conuting problems*, counting walks, counting spanning trees; searching algorithms*)
 
-[comment]: <> (Not done: add/multiply principle in counting, plotting lines circles, volume of vectors, linear programming, basic statistics, matplotlib, lines, plot, circle, vectors, operations, inner product, volume, echelon form, spaces, diagonalization, row operations, null sol, gen sol, three spaces, outer product, 3d plot, column operations, linear classifier)
+[comment]: <> (Not done: add/multiply principle in counting, plotting lines circles, volume of vectors, linear programming, basic statistics, matplotlib, lines, plot, circle, vectors, operations, inner product, volume, echelon form, spaces, diagonalization, row operations, null sol, gen sol, three spaces, outer product, 3d plot, column operations, linear classifier, central limit theorem, law of large number, random walk)
 
 [comment]: <> (Volume 1)
 [comment]: <> (numbers, factor, polynomials, factor, expand, simplify, exp, log, change basis, plot the graph, def a function)
