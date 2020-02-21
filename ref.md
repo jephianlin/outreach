@@ -8,14 +8,14 @@ References: [小虎的家](https://sites.google.com/view/smallhuu/%E6%95%99%E5%A
 [comment]: <> (4: Functions and Plotting: Trig functions, 2d plotting, de Moivre's theorem)
 [comment]: <> (5: Vectors and Objects: 2d vectors, arithmic, vectors in general, python objects)
 [comment]: <> (6: Linear Geometry: inner product and its properties, length and its properties, linear combination, span, triangle inequality, Cauchy--Schwartz inequality, check the two inequalities exercise, linear equality, hyperplane, affine plane plotting, interact, linear classifier if necessary)
-[comment]: <> (7: Matrices and NumPy: matrix arithmics, matrix-vector mult as linear combination, rotation matrix, NumPy basics, linear classifier)
+[comment]: <> (7: Matrices and NumPy: matrix arithmics, matrix-vector mult as linear combination, rotation matrix, NumPy basics)
 [comment]: <> (8: Probability and Statistics: random variable, Bernoulli, binomial, distribution, variable arithmics, continuous probability p=0, mean (expected value) usingi NumPy, how many time to get an whole red ball, variance using NumPy, guess biased dice, basic statistics)
 [comment]: <> (9: Approximation and Limit: Compute root 2, compute log_2, binary approximation, limit, compute slope, derivative, compute area, integration, compute pi, compute e)
 [comment]: <> (10: Calculus: limit function*, special limit, sandwich, differentiation*, l'hopital, product rule, quotient rule, integration*, get area, stirling formula)
 [comment]: <> (11: Matrix Theory: determinant*, charpoly*, Cayley--Hamilton, minpoly, diagonalization*, rotation) 
 [comment]: <> (12: Graph Theory: Graph basics*, construct graph, position, conuting problems*, counting walks, counting spanning trees; searching algorithms*)
 
-[comment]: <> (Not done: add/multiply principle in counting, plotting lines circles, volume of vectors, linear programming, basic statistics, matplotlib, lines, plot, circle, vectors, operations, inner product, volume, echelon form, spaces, diagonalization, row operations, null sol, gen sol, three spaces, outer product, 3d plot, column operations)
+[comment]: <> (Not done: add/multiply principle in counting, plotting lines circles, volume of vectors, linear programming, basic statistics, matplotlib, lines, plot, circle, vectors, operations, inner product, volume, echelon form, spaces, diagonalization, row operations, null sol, gen sol, three spaces, outer product, 3d plot, column operations, linear classifier)
 
 [comment]: <> (Volume 1)
 [comment]: <> (numbers, factor, polynomials, factor, expand, simplify, exp, log, change basis, plot the graph, def a function)
