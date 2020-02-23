@@ -12,10 +12,10 @@ References: [小虎的家](https://sites.google.com/view/smallhuu/%E6%95%99%E5%A
 [comment]: <> (8: Probability and Statistics: random variable, Bernoulli, binomial, distribution, variable arithmics, continuous probability p=0, mean (expected value), how many time to get an whole red ball, variance, guess biased dice, basic statistics)
 [comment]: <> (9: Approximation and Limit: Compute root 2, compute log_2, binary approximation, limit, compute slope, derivative, compute area, integration, compute pi)
 [comment]: <> (10: Calculus: limit function*, special limit, sandwich, differentiation*, l'hopital, product rule, quotient rule, integration*, get area, stirling formula)
-[comment]: <> (11: Matrix Theory: determinant*, charpoly*, Cayley--Hamilton, minpoly, diagonalization*, rotation) 
+[comment]: <> (11: Matrix Theory: determinant*, charpoly*, diagonalization*, rotation) 
 [comment]: <> (12: Graph Theory: Graph basics*, construct graph, position, conuting problems*, counting walks, counting spanning trees; searching algorithms*)
 
-[comment]: <> (Not done: add/multiply principle in counting, plotting lines circles, volume of vectors, linear programming, basic statistics, matplotlib, lines, plot, circle, vectors, operations, inner product, volume, echelon form, spaces, diagonalization, row operations, null sol, gen sol, three spaces, outer product, 3d plot, column operations, linear classifier, central limit theorem, law of large number, random walk, mean/variance by NumPy, compute e)
+[comment]: <> (Not done: add/multiply principle in counting, plotting lines circles, volume of vectors, linear programming, basic statistics, matplotlib, lines, plot, circle, vectors, operations, inner product, volume, echelon form, spaces, diagonalization, row operations, null sol, gen sol, three spaces, outer product, 3d plot, column operations, linear classifier, central limit theorem, law of large number, random walk, mean/variance by NumPy, compute e, Cayley--Hamilton, minpoly)
 
 [comment]: <> (Volume 1)
 [comment]: <> (numbers, factor, polynomials, factor, expand, simplify, exp, log, change basis, plot the graph, def a function)

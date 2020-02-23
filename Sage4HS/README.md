@@ -14,3 +14,5 @@ A series of Sage tutorials/projects for high school students
 10. [Calculus](Calculus.ipynb)
 11. [Matrix Theory](Matrix-Theory.ipynb) 
 12. [Graph Theory](Graph-Theory.ipynb)
+
+References: [小虎的家](https://sites.google.com/view/smallhuu/%E6%95%99%E5%AD%B8%E8%B3%87%E6%96%99)
