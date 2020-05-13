@@ -1,6 +1,13 @@
 # Sage for High School
 A series of Sage tutorials/projects for high school students.
 
+作者：Jephian Lin  
+感謝朱立民、李翊誠、林其璜、洪卉芬協助講義製作
+
+若有疑問請聯繫 Jephian Lin `<jephianlin [at] gmail [dot] com>`。
+
+---
+
 [各章節指令表](https://hackmd.io/@jlch3554/S16G7gv8I)
 
 ## 課前準備
