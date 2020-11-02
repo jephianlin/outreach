@@ -4,6 +4,9 @@ Slides or multi-media materials for outreach
 ## MathCamp2019: Talk at 2019 MathCamp, NSYSU
 - [生活中的圖論](MathCamp2019/MathCamp2019.ipynb)
 
+## NSYSU-digits: Introduction to the NSYSU-digits database
+- [我們與數字辨識的距離](NSYSU-digits/NSYSU-digits.ipynb) [ [slides](https://jephianlin.github.io/outreach/NSYSU-digits/NSYSU-digits.slides.html) ]: Talk at 2020F 人工智慧概論
+
 ## Sage for High School:  A series of Sage tutorials/projects for high school students
 1. [Numbers and Polynomials](Sage4HS/01-Numbers-and-Polynomials.ipynb)
 2. [Sequences and Series](Sage4HS/02-Sequences-and-Series.ipynb)
