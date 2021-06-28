@@ -16,6 +16,13 @@ A series of Sage tutorials/projects for high school students.
 2. 下載[課程檔案](https://github.com/jephianlin/outreach/raw/master/Sage4HS/Sage4HS.zip)並解壓縮
 3. 利用 SageMath 安裝好的 Jupyter Notebook 開啟課程檔案中的 `ipynb` 檔
 
+### 在 CoCalc 上開啟講義
+1. 申請 [CoCalc](https://cocalc.com/app) 帳號
+2. 下載[課程檔案](https://github.com/jephianlin/outreach/raw/master/Sage4HS/Sage4HS.zip)
+3. 登入後點擊 Create New Project…（輸入自己想要的名稱）
+4. 點 Upload 上傳第二步下載的 `Sage4HS.zip`
+5. 點擊上傳的 zip 檔解壓縮
+
 ## Table of Contents
 1. [Numbers and Polynomials](01-Numbers-and-Polynomials.ipynb)
 2. [Sequences and Series](02-Sequences-and-Series.ipynb)
