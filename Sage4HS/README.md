@@ -16,6 +16,9 @@ A series of Sage tutorials/projects for high school students.
 2. 下載[課程檔案](https://github.com/jephianlin/outreach/raw/master/Sage4HS/Sage4HS.zip)並解壓縮
 3. 利用 SageMath 安裝好的 Jupyter Notebook 開啟課程檔案中的 `ipynb` 檔
 
+若自己的電腦無法安裝，或是希望使用網頁版（速度會比較慢）  
+可以依照以下的步驟在 CoCalc 上開啟
+
 ### 在 CoCalc 上開啟講義
 1. 申請 [CoCalc](https://cocalc.com/app) 帳號
 2. 下載[課程檔案](https://github.com/jephianlin/outreach/raw/master/Sage4HS/Sage4HS.zip)
