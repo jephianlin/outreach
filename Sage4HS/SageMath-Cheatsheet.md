@@ -35,7 +35,7 @@ tags: tutorial
 * 因式分解 `factor`
 * 化簡 `simplify`
 * 將符號表達式轉成有理係數多項式 `p = (x+1).polynomial(QQ)`
-* 將 $x$ 代數 $10$ `p.subs(10)` 或 `p(10)`
+* 將 $x$ 代入 $10$ `p.subs(10)` 或 `p(10)`
 * 最小多項式 `sqrt(2).minpoly()`
 
 ### 定義函數 
@@ -298,7 +298,7 @@ g = Graph([V, E])
 * 點 `g.vertices()`
 * 邊 `g.edges(labels=False)`
 * 點數 `g.order()`
-* 邊數 `g.size() 
+* 邊數 `g.size()` 
 * 度序列 `g.degree_sequence()`
 * 是否連通 `g.is_connected()`
 * 腰圍 `g.girth()`
